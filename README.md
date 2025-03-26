@@ -4,10 +4,14 @@ Overview
 This project uses Machine Learning and K-Means clustering to analyze driver behavior and detect risky driving patterns based on acceleration and gyroscope sensor data. By clustering different driving styles, the model helps identify behaviors like harsh acceleration, sudden braking, and sharp turns, which can indicate accident risks.
 
 Objectives
-✔Analyze driver behavior using unsupervised learning (K-Means clustering).
-✔ Detect risky driving patterns using acceleration & gyroscope data.
-✔ Visualize clusters to understand high-risk driving behaviors.
-✔ Optimize clustering using the Elbow Method for better accuracy.
+
+1)Analyze driver behavior using unsupervised learning (K-Means clustering).
+
+2)Detect risky driving patterns using acceleration & gyroscope data.
+
+3)Visualize clusters to understand high-risk driving behaviors.
+
+4)Optimize clustering using the Elbow Method for better accuracy.
 
  Technologies Used
  Python (Pandas, NumPy, Scikit-Learn)
